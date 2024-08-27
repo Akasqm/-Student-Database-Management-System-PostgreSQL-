@@ -1,0 +1,6 @@
+"student_id","stu_name","department","email_id","phone_no","address","date_of_birth","gender","major","gpa","grade"
+12,"Akash","Business","michael.brown@example.com","987654321","456 Oak Rd, Anytown USA","2001-09-01","Male","Business Administration","3.60","B"
+14,"Dhyan","English","david.lee@example.com","1112223333","321 Pine Rd, Anytown USA","2002-06-20","Male","English Literature","3.70","B"
+16,"Ethan Chen","Mathematics","ethan.chen@example.com","7777777777","789 Maple Ln, Anytown USA","2001-11-05","Male","Mathematics","3.50","B"
+18,"Joshua Kim","English","joshua.kim@example.com","8889990000","321 Cedar Ave, Anytown USA","2002-03-12","Male","English Literature","3.60","B"
+20,"Lucas Hernandez","Mathematics","lucas.hernandez@example.com","4445556666","789 Oak Ln, Anytown USA","2000-09-08","Male","Mathematics","3.70","B"
